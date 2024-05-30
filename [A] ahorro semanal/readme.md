@@ -1,5 +1,5 @@
 # Descripción
-Un prestigioso banco lo ha contratado para que implemente la calculadora de un programa de ahorro moderno. 
+Un prestigioso banco lo ha contratado para implementar la calculadora de un programa de ahorro moderno. 
 Este programa consiste de:
 * Un depósito inicial de al menos 50 dólares y
 * aportes semanales de al menos 5 dólares.
@@ -16,6 +16,7 @@ Donde:
 
 Sin embargo, los técnicos del banco desconocen cómo se debe calcular los interes en base a los aportes semanales. Y en su lugar le han dado el siguiente ejemplo:
 
+## Ejemplo
 Dado un depósito inicial de 100 dólares, aportes semanales de 5 dólares y una tasa de interés anual del 8%, la tabla de cálculo sería la siguiente:
 
 |  Semana  |  Aporte ($)  |  Capital ($)  |  Ganancia ($)  |  Total ($)  |
@@ -26,11 +27,11 @@ Dado un depósito inicial de 100 dólares, aportes semanales de 5 dólares y una
 |  4  |  5   |   115.48     |   0.18    |   115.66  |
 |  5  |  5   |   120.66     |   0.19    |   120.85  |
 ...
+|  51  |  5  |   367.65     |   0.57    |   368.22  |
 |  52  |  5  |   373.22     |   0.57    |   373.79  |
 
 
-
-La calculadora que usted debe implementar tiene como principal 
-determinar el interés que se debe cobrar a los clientes que soliciten un préstamo con pagos semanales.
+# Objetivo
+Los técnicos del banco desean la calculadora para probar diferentes escenarios de ahorro, con el objetivo principal de determinar la tasa de **interés**. 
 
 * Considere que el banco puede cambiar de opinión y pedirle que los aportes ya no sean semanales, sino mensuales, trimestrales o bimestrales. Incluya esta posibilidad en su programa.
