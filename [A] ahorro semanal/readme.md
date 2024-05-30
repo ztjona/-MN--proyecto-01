@@ -6,12 +6,12 @@ Este programa consiste de:
 
 Los técnicos del banco le han proporcionado la fórmula básica para calcular el interés compuesto:
 
-$ V_f=V_o(1+i)^n $
+$V_f=V_o(1+i)^n$
 Donde:
-* $ V_f $ es el valor final en la cuenta de ahorros,
-* $ V_o $ es el valor de depósito inicial,
-* $ i $ es la tasa de interés,
-* $ n $ es el número de periodos transcuridos.
+* $V_f$ es el valor final en la cuenta de ahorros,
+* $V_o$ es el valor de depósito inicial,
+* $i$ es la tasa de interés,
+* $n$ es el número de periodos transcuridos.
 
 
 Sin embargo, los técnicos del banco desconocen cómo se debe calcular los interes en base a los aportes semanales. Y en su lugar le han dado el siguiente ejemplo:
