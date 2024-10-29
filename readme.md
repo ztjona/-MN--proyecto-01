@@ -1,18 +1,19 @@
 Existe 3 opciones de proyectos disponibles. Las instrucciones para cada proyecto se encuentran en la carpeta respectiva.
 
+<!-- * [[B] arquitectura](<[B] arquitectura/readme.md>) -->
 * [[A] Ahorro semanal](<[A] ahorro semanal/readme.md>)
-* [[B] arquitectura](<[B] arquitectura/readme.md>)
-* [[C] sobrevuelo](<[C] sobrevuelo/readme.md>)
+* [[B] Telescopio](<[B] telescopio/readme.md>)
+* [[C] sobrevuelo 2](<[C] sobrevuelo 2/readme.md>)
 
 # Asignación de proyectos
-**[Importante]** Cada proyecto tiene un cupo máximo de 3 grupos de estudiantes. 
+**[Importante]** Cada proyecto tiene un cupo máximo de 4 grupos de estudiantes. 
 Para reservar el proyecto de su preferencia debe comunicarse lo más pronto posible con el profesor quien confirmará el cupo para su grupo. 
 En caso de no haber disponibilidad, el profesor le indicará las alternativas.
 
 # Cronograma
-* **Selección de proyectos:** hasta el 8 de junio de 2024
-* **Entrega:** 18 de junio de 2024, 9:59 pm
-* **Presentación:** 19 de junio de 2024, 7:00 am
+* **Selección de proyectos:** hasta el 5 de noviembre de 2024, 9:59 pm
+* **Entrega:** 29 de noviembre de 2024, 9:59 pm
+* **Presentación:** 30 de noviembre de 2024
 
 
 # Rúbrica de evaluación

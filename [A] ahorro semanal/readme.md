@@ -14,7 +14,9 @@ Donde:
 * $n$ es el número de periodos transcuridos.
 
 
-Sin embargo, los técnicos del banco desconocen cómo se debe calcular los interes en base a los aportes semanales. Y en su lugar le han dado el siguiente ejemplo:
+Sin embargo, esta fórmula **ESTÁ INCOMPLETA**, pues los técnicos del banco desconocen cómo se debe calcular los interes en base a los aportes semanales. Parte de su proyecto es establecer la expresión matemática para encontrar la tasa de interés. 
+
+En su lugar le han dado el siguiente ejemplo:
 
 ## Ejemplo
 Dado un depósito inicial de 100 dólares, aportes semanales de 5 dólares y una tasa de interés anual del 8%, la tabla de cálculo sería la siguiente:
