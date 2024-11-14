@@ -24,5 +24,5 @@ Realice una interfraz gráfica que muestre la orientación del espejo secundario
 * $x_2$: Longitud del pistón 2.
 
 ## Aclaraciones
-* En caso de existir múltiples soluciones, establecer $x_1 y x_2$ para que tengan la máxima extensión posible.
-* En caso de no existir solución, establecer $x_1 y x_2$ para que se acerque lo más posible sin quebrantar los límites físicos.
+* En caso de existir múltiples soluciones, establecer $x_1$ y $x_2$ para que tengan la máxima extensión posible.
+* En caso de no existir solución, establecer $x_1$ y $x_2$ para que se acerque lo más posible sin quebrantar los límites físicos.
